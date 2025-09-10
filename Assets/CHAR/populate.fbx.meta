@@ -1,0 +1,374 @@
+fileFormatVersion: 2
+guid: 55f8ca5405359c74eaeac84501f6eb6e
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Populate Custom Skin
+    second: {fileID: 2100000, guid: 97bb965bb1fe60146ac66e349571826b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female000Skin_001_Color
+    second: {fileID: 2100000, guid: ca89a76e79496354cb1c3a7485492b20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female001Skin_001_Color
+    second: {fileID: 2100000, guid: 99985f6e718ff62428496ca6e30f1162, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female002Skin_001_Color
+    second: {fileID: 2100000, guid: b48b609b7d945bd448d19f6c539917ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female003Skin_001_Color
+    second: {fileID: 2100000, guid: 45ec4f2db8b7c6a4b92e29004ae896bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female004Skin_001_Color
+    second: {fileID: 2100000, guid: a3cb83ee6db85234bb9269f70c9e2703, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female005Skin_001_Color
+    second: {fileID: 2100000, guid: 1c4607def73c0574582c0a932ec8567e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female006Skin_001_Color
+    second: {fileID: 2100000, guid: bd49dcf70738eec42b84d94a68bfc2c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female007Skin_001_Color
+    second: {fileID: 2100000, guid: c29d083a6411a6a439e1e8f163cbcc11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female008Skin_001_Color
+    second: {fileID: 2100000, guid: fbb945938b75f1b47be9f8641440c107, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female009Skin_001_Color
+    second: {fileID: 2100000, guid: afa153f046704834295e17f1ff2cd483, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female010Skin_001_Color
+    second: {fileID: 2100000, guid: 5ef11d2e10d96e84284253c34de7caab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female011Skin_001_Color
+    second: {fileID: 2100000, guid: 7dee1a468de61304b8562673f5613fff, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female012Skin_001_Color
+    second: {fileID: 2100000, guid: f32b385f539a60c42bfb4a3180429441, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female013Skin_001_Color
+    second: {fileID: 2100000, guid: 0c9df6e02a7d5ec4db234933e4235410, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female014Skin_001_Color
+    second: {fileID: 2100000, guid: 28ff4e4f41a366f4ca14c5b86f58c699, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female015Skin_001_Color
+    second: {fileID: 2100000, guid: bbf357fcbb54e0447925172bbaa78f32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female016Skin_001_Color
+    second: {fileID: 2100000, guid: 0260fc5a3128634479ff28cc1f291a7f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female017Skin_001_Color
+    second: {fileID: 2100000, guid: 15b7a1c0b99879048ad7a540f5cab4cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female018Skin_001_Color
+    second: {fileID: 2100000, guid: 9b16ce538a7f5a245be4345faddb3994, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female019Skin_001_Color
+    second: {fileID: 2100000, guid: d9248328cc51c26429379f6fe9f92337, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female020Skin_001_Color
+    second: {fileID: 2100000, guid: 3d701ad0b9dd1d145b4c3d5408aab4f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female021Skin_001_Color
+    second: {fileID: 2100000, guid: dd04444e87059054e82fa7a5cbfb8176, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female022Skin_001_Color
+    second: {fileID: 2100000, guid: 9d4f8ec5a2a35df4ab478cbab19435cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female023Skin_001_Color
+    second: {fileID: 2100000, guid: 027c532ef6d3c814da331054d9a8b57d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Female024Skin_001_Color
+    second: {fileID: 2100000, guid: a28c1579fff504e4c97317aa66654d5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male000Skin_001_Color
+    second: {fileID: 2100000, guid: 2087166183304d64cb1c421851b1436c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male001Skin_001_Color
+    second: {fileID: 2100000, guid: d131ed31685254d48823ea0fdf2f5bee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male002Skin_001_Color
+    second: {fileID: 2100000, guid: f2a67b5f15d089144985caefd4e77829, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male003Skin_001_Color
+    second: {fileID: 2100000, guid: 92e44f9c57b0484459dcd759c2a806d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male004Skin_001_Color
+    second: {fileID: 2100000, guid: eeafe398fa252fb4c9f1372a6fdaa7aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male005Skin_001_Color
+    second: {fileID: 2100000, guid: ec424f572499ade419c0487ecff8b324, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male006Skin_001_Color
+    second: {fileID: 2100000, guid: 3c66430beb164714588a417d7557296f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male007Skin_001_Color
+    second: {fileID: 2100000, guid: f7e51f66710ec43459711633b7312e08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male008Skin_001_Color
+    second: {fileID: 2100000, guid: 246ea72a3c191c0468d079d5389fb7f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male009Skin_001_Color
+    second: {fileID: 2100000, guid: ac7d09e794d39f44880bf35d97d52562, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male010Skin_001_Color
+    second: {fileID: 2100000, guid: 06687e797cd707440a74002a8a7cca54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male011Skin_001_Color
+    second: {fileID: 2100000, guid: 1604733bdadc6c0469a79ed77a321584, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male012Skin_001_Color
+    second: {fileID: 2100000, guid: 300729e8e1a7bb84fb566790d6978b81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male013Skin_001_Color
+    second: {fileID: 2100000, guid: 883a2480ca3a65240a20c9976aef4edd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male014Skin_001_Color
+    second: {fileID: 2100000, guid: 150490de5023340449939f9658362fe9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male015Skin_001_Color
+    second: {fileID: 2100000, guid: 0d106cef5681abb4884888900055b564, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male016Skin_001_Color
+    second: {fileID: 2100000, guid: e56fc68b7bf10d045aa109c0f8168fa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male017Skin_001_Color
+    second: {fileID: 2100000, guid: 9057ebf2868cbb84fa9e15eac92b515d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male018Skin_001_Color
+    second: {fileID: 2100000, guid: 889d09bba6bba1d4fb9d20f17dd21ce7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male019Skin_001_Color
+    second: {fileID: 2100000, guid: 7329996cd7ae3e5489facf5588d31034, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male020Skin_001_Color
+    second: {fileID: 2100000, guid: 297b98a31392a5d44807a0bda45bd858, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male021Skin_001_Color
+    second: {fileID: 2100000, guid: 5087090d4c992ca4998df7b9a3952fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male022Skin_001_Color
+    second: {fileID: 2100000, guid: 8cc3adb8b7cd1c047837f5d99e3901e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male023Skin_001_Color
+    second: {fileID: 2100000, guid: 5933493d3fb36b1419132085686eb6c2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male024Skin_001_Color
+    second: {fileID: 2100000, guid: e38cbc01b1c564b49bc50e4da86dcefd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male025Skin_001_Color
+    second: {fileID: 2100000, guid: 762d0d4c3e728004dabf7997e63c4039, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mtl_Male026Skin_001_Color
+    second: {fileID: 2100000, guid: bfe9750a09596e64a85951ff14cb1fd8, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
