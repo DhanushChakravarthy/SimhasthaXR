@@ -1,0 +1,58 @@
+# =============== #
+# Unity Generated #
+# =============== #
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
+.vs/
+
+# Crashlytics
+*.dSYM.zip
+*.dSYM
+
+# =============== #
+# OS Generated    #
+# =============== #
+.DS_Store
+Thumbs.db
+
+# =============== #
+# Visual Studio   #
+# =============== #
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+
+# Rider
+.idea/
+*.sln.iml
+
+# =============== #
+# Builds / Cache  #
+# =============== #
+*.apk
+*.aab
+*.exe
+*.app
+*.unitypackage
+
+# =============== #
+# Large Models    #
+# =============== #
+Assets/MODELS/RAM TEMPLE.fbx
